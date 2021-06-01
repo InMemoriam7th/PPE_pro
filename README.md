@@ -21,12 +21,12 @@ CREATE TABLE client_ligue (id_client int PRIMARY KEY not null AUTO_INCREMENT,
 
 * La page principale affiche tous les clients et leurs informations.
 
-![Page principale](https://raw.githubusercontent.com/alexmi94/ppe_interface_admin_gestion_client/main/doc/page_principale.jpg)
+![Page principale](https://raw.githubusercontent.com/InMemoriam7th/PPE_pro/master/asset/page_principale.jpg)
 
 * Pour ajouter un client il faut indiquer 4 infomation **obligatoire**.  
 
-![Ajouter un client](https://raw.githubusercontent.com/alexmi94/ppe_interface_admin_gestion_client/main/doc/ajouter_client.jpg)
+![Ajouter un client](https://raw.githubusercontent.com/InMemoriam7th/PPE_pro/master/asset/ajouter_client.jpg)
 
 * L'édition d'un client déjà éxistant permet de mettre à jour les infomations sur le client ou de le supprimer.
 
-![Modifier un client](https://raw.githubusercontent.com/alexmi94/ppe_interface_admin_gestion_client/main/doc/modifier_client.jpg)
+![Modifier un client](https://raw.githubusercontent.com/InMemoriam7th/PPE_pro/master/asset/modifier_client.jpg)
