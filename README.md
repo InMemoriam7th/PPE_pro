@@ -23,7 +23,7 @@ CREATE TABLE client_ligue (id_client int PRIMARY KEY not null AUTO_INCREMENT,
 
 ![Page principale](https://raw.githubusercontent.com/InMemoriam7th/PPE_pro/master/asset/page_principale.jpg)
 
-* Pour ajouter un client il faut indiquer 4 infomation **obligatoire**.  
+* Pour ajouter un client, il faut indiquer le nom, le prénom, l'àge et le mail.  **obligatoire**.  
 
 ![Ajouter un client](https://raw.githubusercontent.com/InMemoriam7th/PPE_pro/master/asset/ajouter_client.jpg)
 
